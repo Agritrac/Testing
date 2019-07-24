@@ -29,16 +29,12 @@
     "scrollAnimation": "true",
     "favicon": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "uniqCompNum": 82,
+    "uniqCompNum": 85,
     "path": "@PROJECT_PATH@",
     "noImageResize": "",
     "google-analytics": "",
     "screenshot": "screenshot.png",
-    "siteFonts": [],
-    "publishType": "github",
-    "publishPath": "file:///C:/Users/user/Documents",
-    "gitHubName": "Agritrac",
-    "gitHubPath": "agritrac"
+    "siteFonts": []
   },
   "pages": {
     "home.html": {
@@ -373,7 +369,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1271,7 +1267,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2164,7 +2160,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2266,7 +2262,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/multiple%20blues-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/multiple-blues-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2297,7 +2293,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/blue%20on%20small%20sprayer-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/blue-on-small-sprayer-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3429,7 +3425,12 @@
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-g"
+          "_anchor": "image1-g",
+          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding mbr-figure--caption-outside-bottom mbr-after-navbar\" data-rv-view=\"336\">\n    <div class=\"mbr-figure\">\n        <div><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/Ng2jBvZVMv0?rel=0&amp;amp;showinfo=0&amp;autoplay=1&amp;loop=1&amp;playlist=Ng2jBvZVMv0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n        <div class=\"mbr-figure-caption mbr-figure-caption-over\">\n            <div class=\"container mbr-editable-content\" code-editable-id=\"75\"></div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_name": "contacts1",
@@ -3572,7 +3573,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3636,7 +3637,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/three%20boxes%20on%20desk-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/three-boxes-on-desk-1400x1400.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -4459,7 +4460,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Photo Gallery",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
