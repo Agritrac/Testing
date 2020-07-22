@@ -28,7 +28,15 @@
     },
     "scrollAnimation": "true",
     "favicon": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    },
     "uniqCompNum": 85,
     "path": "@PROJECT_PATH@",
     "noImageResize": "",
@@ -271,7 +279,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>"
+          "text3": "<p><strong><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">Links</a></strong><br><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">\nCrop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\" target=\"_blank\">Agritrac</a><br><br></p>"
         },
         {
           "_styles": {
@@ -1256,7 +1264,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>"
+          "text3": "<p><strong><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">Links</a></strong><br><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">\nCrop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\" target=\"_blank\">Agritrac</a><br><br></p>"
         }
       ]
     },
@@ -2041,7 +2049,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>"
+          "text3": "<p><strong><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">Links</a></strong><br><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">\nCrop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\" target=\"_blank\">Agritrac</a><br><br></p>"
         },
         {
           "_name": "footer1",
@@ -2931,7 +2939,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>"
+          "text3": "<p><strong><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">Links</a></strong><br><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">\nCrop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\" target=\"_blank\">Agritrac</a><br><br></p>"
         },
         {
           "_name": "footer1",
@@ -3120,7 +3128,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>",
+          "text3": "<p><strong><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">Links</a></strong><br><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">\nCrop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\" target=\"_blank\">Agritrac</a><br><br></p>",
           "_anchor": "contacts1-4"
         },
         {
@@ -3305,7 +3313,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>",
+          "text3": "<p><strong><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">Links</a></strong><br><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">\nCrop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\" target=\"_blank\">Agritrac</a><br><br></p>",
           "_anchor": "contacts1-b"
         },
         {
@@ -3474,7 +3482,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>",
+          "text3": "<p><strong><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">Links</a></strong><br><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">\nCrop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\" target=\"_blank\">Agritrac</a><br><br></p>",
           "_anchor": "contacts1-e"
         },
         {
@@ -4343,7 +4351,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>",
+          "text3": "<p><strong><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">Links</a></strong><br><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">\nCrop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\" target=\"_blank\">Agritrac</a><br><br></p>",
           "_anchor": "contacts1-1u"
         },
         {
@@ -4639,7 +4647,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>",
+          "text3": "<p><strong><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">Links</a></strong><br><a href=\"http://www.cropsprayerparts.com\" target=\"_blank\">\nCrop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\" target=\"_blank\">Agritrac</a><br><br></p>",
           "_anchor": "contacts1-23"
         },
         {
